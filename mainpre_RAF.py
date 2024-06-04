@@ -33,7 +33,7 @@ learning_rate_decay_start = 20  # 50
 learning_rate_decay_every = 1  # 5
 learning_rate_decay_rate = 0.8  # 0.9
 
-cut_size = 44
+cut_size = 100
 total_epoch = 60
 
 path = os.path.join(opt.dataset)
